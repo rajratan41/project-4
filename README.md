@@ -15,9 +15,9 @@ I've been Working on this assigments that has been given by our mentor [Hitesh C
     - four hour
 
 ## Live Link
-  https://lawhometest.netlify.app/
+  https://seohometest.netlify.app/
 
-
+![image](./4.png)
 ## Here Is What I'm Working On
 
   I’m currently learning  ...<strong>Full Stack Javascript Web Developer By [Hitesh Choudhary](https://github.com/hiteshchoudhary)</strong>
